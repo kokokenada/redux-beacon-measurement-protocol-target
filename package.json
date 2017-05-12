@@ -1,0 +1,26 @@
+{
+  "name": "redux-beacon-measurement-protocol-target",
+  "version": "0.0.1",
+  "description": "An experimental redux-beacon target that works directly with Google Analytics measurement protocol to provide consolidated mobile and web reporting with Google Analytic's free tier",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokokenada/redux-beacon-measurement-protocol-target.git"
+  },
+  "keywords": [
+    "redux-beacon",
+    "google",
+    "analytics",
+    "web",
+    "mobile"
+  ],
+  "author": "Ken Ono",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kokokenada/redux-beacon-measurement-protocol-target/issues"
+  },
+  "homepage": "https://github.com/kokokenada/redux-beacon-measurement-protocol-target#readme"
+}
